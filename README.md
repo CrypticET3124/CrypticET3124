@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- I'm currently studying computer science!
+
 <!--
 **CrypticET3124/CrypticET3124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
